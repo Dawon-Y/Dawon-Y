@@ -21,3 +21,6 @@ https://github.com/web-framework-1-potato-wedges
 https://github.com/TeamGonNyong
 </br>
 https://github.com/Doctor-Be
+
+Paper
+https://koreascience.kr/article/CFKO202532350449856.view?orgId=anpor&hide=breadcrumb,journalinfo
