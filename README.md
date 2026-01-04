@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm Dawon!
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dawon%20Yang&fontSize=70&animation=fadeIn&fontAlignY=38)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDawon-Y&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -14,10 +14,12 @@
 
 ## 🎓 About Me
 
-**Computer Science Student** at Hansung University  
-**Frontend Developer** | **DC&M Club President** | **UMC 9th WEB Challenger**
-
-> 💡 Passionate about building user-centric applications and collaborative platforms
+* [2024.03 ~ Present] **B.Sc. in Computer Science & Engineering, Hansung University** (Seoul, South Korea)
+* [2025.09 ~] **한성대학교 컴퓨터공학부 학술 동아리 DC&M 회장** — Club President  
+* [2025.09 ~] **UMC 9th WEB Challenger**  
+* [2025.03 ~ 2025.09] **한성대학교 컴퓨터공학부 학술 동아리 DC&M 부회장** — Vice President
+* [2025.03 ~ 2025.09] **UMC 8th Android Challenger**
+* [2024.09 ~] **한성대학교 컴퓨터공학부 학술 소모임 BUG** — Member
 
 ---
 
@@ -73,90 +75,89 @@
 
 ## 🏆 Awards
 
-### 🥇 Prize-Winning Projects
 | Project | Award | Category | Year |
 |---------|-------|----------|------|
-| **E-Clips** | 🏆 수상 | AI-Powered Educational Platform | 2024 |
-| **오늘은 어디 가시나요?** | 🏆 수상 | Location-Based Service | 2024 |
-| **All Is Well** | 🏆 수상 | RAG-Based Panel Search | 2024 |
-| **MEDISON** | 🥈 아이디어 부문 | Medical Innovation | 2024 |
-| **AIPDND** | 🥈 아이디어 부문 | AI Service | 2024 |
+| **E-Clips** | 🏆 수상 | AI-Powered Educational Platform | 2025 |
+| **오늘은 어디 가시나요?** | 🏆 수상 | Location-Based Service | 2025 |
+| **All Is Well** | 🏆 수상 | RAG-Based Panel Search | 2025 |
+| **MEDISON** | 🥈 아이디어 부문 | Medical Innovation | 2025 |
+| **AIPDND** | 🥈 아이디어 부문 | AI Service | 2025 |
 
 ---
 
-## 🚀 Featured Projects
+## 📝 Publications
 
-### 🎯 [E-Clips](https://github.com/2-Clips) | AI-Powered Educational Platform 🏆
+📄 **학술대회 논문**: [E-Clips: AI 기반 강의 요약 플랫폼](https://koreascience.kr/article/CFKO202532350449856.view?orgId=anpor&hide=breadcrumb,journalinfo) (2025)
+
+---
+
+## 🚀 Projects
+
+### 🎯 [E-Clips](https://github.com/2-Clips) 🏆
 > AI 기반 강의 요약 및 숏폼 콘텐츠 생성 플랫폼
-- **Tech**: React Native, TypeScript, AI/ML
-- **Role**: Mobile Frontend Developer
-- **Achievement**: 수상작 (Prize-Winning Project)
 
-### 🤝 [All Is Well](https://github.com/fourEdiots) | RAG-Based Panel Search System 🏆
-> RAG 기술 기반 AI 패널 검색 시스템
-- **Tech**: React, Spring Boot, RAG, AI
-- **Role**: Full-Stack Developer (Frontend & Backend)
-- **Achievement**: 수상작 (Prize-Winning Project)
+`React Native` `TypeScript` `Expo`
 
-### 🏥 [Dr.Be](https://github.com/Doctor-Be) | Medical Specialist Recommendation System
-> RAG 기반 질병별 전문의 추천 및 진료 정보 통합 시스템
-- **Tech**: Python, Web Scraping, React
-- **Role**: Web Crawler & Frontend Developer
-
-### 🥔 [Potato Wedges](https://github.com/web-framework-1-potato-wedges) | E-Commerce Platform
-> 웹 프레임워크 기반 할 일 체크리스트 플랫폼
-- **Tech**: React, JavaScript, Map API
-- **Role**: UI/UX Designer, Frontend & Backend Integration
-- **Details**: 
-  - 결제 페이지 UI 구현
-  - 이벤트 페이지 개발 (지도 API 활용)
-  - 백엔드 연동
-
-### 🎮 What Is Me? | Keyword Guessing Game
-> 키워드 추리 게임
-- **Tech**: Java
-- **Role**: UI Designer & Main Game Logic Developer
-- **Details**: 메인 화면, 게임 방법 화면, 전반적인 게임 구현
-- [📺 시연 영상](https://youtu.be/UrGVJqcMCxM)
-
-### 👔 Onfit | Smart Wardrobe Management
-> 스타일을 기록하고 연결하는 스마트 옷장 앱
-- **Tech**: Kotlin
-- **Role**: Frontend
-- **Details**: 옷장 화면, 검색 필터, 아이템 추가, 옷 세부 정보, 캘린더 메인 화면, 스타일 별 outfit 화면 구현
-
-### 📍 Flow | Location Optimization App
-> Find Location, Optimize Way - 지도 기반 경로 최적화 앱
+***My Contribution (Mobile Frontend Developer)***
+- 모바일 프론트엔드 전체 개발
 
 ---
 
-## 🛠️ Experience
+### 🤝 [All Is Well](https://github.com/fourEdiots) 🏆
+> RAG 기술 기반 AI 패널 검색 시스템
 
-### 2025
-- `25.09 ~` **UMC 9th WEB Challenger**
-- `25.09 ~` **한성대학교 컴퓨터공학부 학술 동아리 DC&M 회장**
-- `25.03 ~ 25.09` **UMC 8th Android Challenger**
-- `25.03 ~ 25.09` **한성대학교 컴퓨터공학부 학술 동아리 DC&M 부회장**
+`React` `TypeScript` `Python`
 
-### 2024
-- `24.09 ~` **한성대학교 컴퓨터공학부 학술 소모임 BUG**
-- `24.03 ~` **한성대학교 공과대학 편입 후 재학**
+***My Contribution (Full-Stack Developer)***
+- 프론트엔드 및 백엔드 개발
+
+---
+
+### 🏥 [Dr.Be](https://github.com/Doctor-Be)
+> RAG 기반 질병별 전문의 추천 및 진료 정보 통합 시스템
+
+`Python` `Beautiful Soup` `Selenium` 
+
+***My Contribution (Web Crawler & Frontend Developer)***
+- 크롤링 및 프론트엔드 개발
+
+---
+
+### 🥔 [Potato Wedges](https://github.com/web-framework-1-potato-wedges)
+> 웹 프레임워크 기반 할 일 체크리스트 플랫폼
+
+`React` `JavaScript` `Figma`
+
+***My Contribution (UI/UX Designer & Frontend Developer)***
+- 디자인, 결제 페이지 UI 구현, 이벤트 페이지(지도 API 활용) 개발
+
+---
+
+### 🎮 [What Is Me?]((https://github.com/TeamGonNyong))
+> 키워드 추리 게임
+
+`Java` `Swing` `Figma`
+
+***My Contribution (UI Designer & Main Game Logic Developer)***
+- UI 디자인, 메인 화면, 게임 방법 화면, 전반적인 게임 구현
+
+---
+
+### 👔 Onfit
+> 스타일을 기록하고 연결하는 스마트 옷장 앱
+
+`Kotlin` `Android`
+
+***My Contribution (Frontend Developer)***
+- 옷장 화면, 검색 필터, 아이템 추가, 옷 세부 정보, 캘린더 메인 화면, 스타일별 outfit 화면 구현
+
+---
+
+### 📍 Flow
+> Find Location, Optimize Way - 지도 기반 경로 최적화 앱
 
 ---
 
 ## 🎖️ Certifications
 
 - `22.09.24` **웹디자인기능사** 자격증 취득
-
----
-
-## 📝 Publications
-
-📄 **Research Paper**: [View on KoreaScience](https://koreascience.kr/article/CFKO202532350449856.view?orgId=anpor&hide=breadcrumb,journalinfo)
-
----
-
-## 📫 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
