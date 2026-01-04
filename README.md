@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Dawon-Y's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawon-Y)](https://github.com/Dawon-Y/github-readme-stats)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Dawon-Y&utm_content=farm">
 <img
