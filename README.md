@@ -94,7 +94,6 @@
 `React Native` `TypeScript` `Expo`
 
 ***My Contribution (Mobile Frontend Developer)***
-- 모바일 프론트엔드 전체 개발
 
 ---
 
