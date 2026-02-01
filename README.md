@@ -127,7 +127,7 @@
 
 ---
 
-### 🎮 [What Is Me?] (https://github.com/TeamGonNyong)
+### 🎮 [What Is Me?](https://github.com/TeamGonNyong)
 > 키워드 추리 게임
 
 `Java` `Swing` `Figma`
