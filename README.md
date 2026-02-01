@@ -11,7 +11,7 @@
 
 ---
 
-## 🎓 About Me
+# 🎓 About Me
 
 * [2024.03 ~ Present] **B.Sc. in Computer Science & Engineering, Hansung University** (Seoul, South Korea)
 * [2025.09 ~] **한성대학교 컴퓨터공학부 학술 동아리 DC&M 회장** — Club President  
@@ -22,7 +22,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
   
@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -68,7 +68,7 @@
 
 ---
 
-## 🏆 Awards
+# 🏆 Awards
 
 | Project | Award | Category | Year |
 |---------|-------|----------|------|
@@ -80,13 +80,15 @@
 
 ---
 
-## 📝 Publications
+# 📝 Publications
 
 📄 **학술대회 논문**: [E-Clips: AI 기반 강의 요약 플랫폼](https://koreascience.kr/article/CFKO202532350449856.view?orgId=anpor&hide=breadcrumb,journalinfo) (2025)
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
+
+## 2025
 
 ### 🎯 [E-Clips](https://github.com/2-Clips) 🏆
 > AI 기반 강의 요약 및 숏폼 콘텐츠 생성 플랫폼
@@ -137,8 +139,7 @@
 
 ---
 
-### 2024
----
+## 2024
 
 ### 👔 Onfit
 > 스타일을 기록하고 연결하는 스마트 옷장 앱
