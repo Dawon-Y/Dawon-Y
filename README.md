@@ -15,9 +15,9 @@
 
 * [2024.03 ~ Present] **B.Sc. in Computer Science & Engineering, Hansung University** (Seoul, South Korea)
 * [2025.09 ~] **한성대학교 컴퓨터공학부 학술 동아리 DC&M 회장** — Club President  
-* [2025.09 ~ 2026.2] **UMC 9th WEB Challenger**  
-* [2025.03 ~ 2025.09] **한성대학교 컴퓨터공학부 학술 동아리 DC&M 부회장** — Vice President
+* [2025.09 ~ 2026.2] **UMC 9th WEB Challenger**
 * [2025.03 ~ 2025.09] **UMC 8th Android Challenger**
+* [2025.03 ~ 2025.09] **한성대학교 컴퓨터공학부 학술 동아리 DC&M 부회장** — Vice President
 * [2024.09 ~] **한성대학교 컴퓨터공학부 학술 소모임 BUG** — Member
 
 ---
@@ -125,7 +125,7 @@
 
 ---
 
-### 🛤️ [우리가 걸어갈 길](https://github.com/HSU-ThePathWeAreGoingToWalk)
+### 🛤️ [우리가 걸어갈 길](https://github.com/HSU-ThePathWeAreGoingToWalk) 🏆
 > 한적한 시골 버스 정류장에 AI 챗봇을 설치해 고령자의 외로움 해소, 실시간 버스 정보 제공, 지역 행사 안내를 지원하며, 긴급 상황 시 Cisco WebEx를 통해 공공기관과 즉시 연결되는 스마트 정류장 시스템
 
 `React` `JavaScript`
