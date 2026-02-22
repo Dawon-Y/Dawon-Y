@@ -15,7 +15,7 @@
 
 * [2024.03 ~ Present] **B.Sc. in Computer Science & Engineering, Hansung University** (Seoul, South Korea)
 * [2025.09 ~] **한성대학교 컴퓨터공학부 학술 동아리 DC&M 회장** — Club President  
-* [2025.09 ~] **UMC 9th WEB Challenger**  
+* [2025.09 ~ 2026.2] **UMC 9th WEB Challenger**  
 * [2025.03 ~ 2025.09] **한성대학교 컴퓨터공학부 학술 동아리 DC&M 부회장** — Vice President
 * [2025.03 ~ 2025.09] **UMC 8th Android Challenger**
 * [2024.09 ~] **한성대학교 컴퓨터공학부 학술 소모임 BUG** — Member
@@ -88,6 +88,19 @@
 
 # 🚀 Projects
 
+## 2026
+
+### 🔗 [NECT](https://github.com/UMC-NECT)
+> 디자이너, 개발자, 기획자, 영상 제작자 등 다양한 크리에이터들이 아이디어와 역량을 연결해 사이드 프로젝트·팀 빌딩·창작 협업을 시작할 수 있는 플랫폼
+
+`React` `TypeScript`
+
+***My Contribution (Frontend Developer)***
+- 홈 화면, 지금 매칭 가능한 넥터, 프로젝트 상세 화면 구현
+- 아이디어 분석 및 분석 리포트 페이지 구현
+
+---
+
 ## 2025
 
 ### 🎯 [E-Clips](https://github.com/2-Clips) 🏆
@@ -96,6 +109,9 @@
 `React Native` `TypeScript` `Expo`
 
 ***My Contribution (Mobile Frontend Developer)***
+- 모바일 마이 페이지(+상세) 구현
+- 모바일 강의실 페이지(+상세) 구현
+- 퀴즈 페이지(+상세) 구현
 
 ---
 
@@ -106,6 +122,16 @@
 
 ***My Contribution (Full-Stack Developer)***
 - 프론트엔드 및 백엔드 개발
+
+---
+
+### 🛤️ [우리가 걸어갈 길](https://github.com/HSU-ThePathWeAreGoingToWalk)
+> 한적한 시골 버스 정류장에 AI 챗봇을 설치해 고령자의 외로움 해소, 실시간 버스 정보 제공, 지역 행사 안내를 지원하며, 긴급 상황 시 Cisco WebEx를 통해 공공기관과 즉시 연결되는 스마트 정류장 시스템
+
+`React` `JavaScript`
+
+***My Contribution (Frontend Developer)***
+- 프론트엔드 UI 디자인 및 구현
 
 ---
 
