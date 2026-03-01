@@ -80,12 +80,6 @@
 
 ---
 
-# 📝 Publications
-
-📄 **학술대회 논문**: [E-Clips: AI 기반 강의 요약 플랫폼](https://koreascience.kr/article/CFKO202532350449856.view?orgId=anpor&hide=breadcrumb,journalinfo) (2025)
-
----
-
 # 🚀 Projects
 
 ## 2026
