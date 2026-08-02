@@ -74,6 +74,7 @@
 
 | Project | Award | Category | Year |
 |---------|-------|----------|------|
+| **Findish** | 🏆 수상 | Multi-Agent Restaurant Recommendation | 2026 |
 | **E-Clips** | 🏆 수상 | AI-Powered Educational Platform | 2025 |
 | **오늘은 어디 가시나요?** | 🏆 수상 | Location-Based Service | 2025 |
 | **All Is Well** | 🏆 수상 | RAG-Based Panel Search | 2025 |
@@ -85,6 +86,15 @@
 # 🚀 Projects
 
 ## 2026
+
+### 🍽️ [파인디쉬](https://github.com/SinseonSeolnongtang) 🏆
+> 6축 임베딩 유사도 기반 멀티 에이전트 AI 맛집 추천 서비스
+`Spring Boot` `FastAPI` `Python`
+***My Contribution (Backend Developer)***
+- Spring Boot 기반 백엔드 서버 개발, FastAPI AI 서버와 연동
+- SQLAlchemy 벡터 데이터 저장 오류 수정 및 Supabase upsert 로직 개선
+
+---
 
 ### 🔗 [NECT](https://github.com/UMC-NECT)
 > 디자이너, 개발자, 기획자, 영상 제작자 등 다양한 크리에이터들이 아이디어와 역량을 연결해 사이드 프로젝트·팀 빌딩·창작 협업을 시작할 수 있는 플랫폼
