@@ -13,12 +13,13 @@
 
 # 🎓 About Me
 
-* [2026.3 ~] **UMC 10th Android 파트장**
-* [2026.3 ~] **UMC 10th Node.js Challenger**
-* [2025.09 ~ Present] **한성대학교 컴퓨터공학부 학술 동아리 DC&M 회장** — Club President  
+* [2026.3 ~ 2026.08] **UMC 10th Android 파트장**
+* [2026.3 ~ 2026.08] **UMC 10th Node.js Challenger**
+* [2025.09 ~ 2026.08] **한성대학교 컴퓨터공학부 학술 동아리 DC&M 회장** — Club President  
 * [2025.09 ~ 2026.02] **UMC 9th WEB Challenger**
 * [2025.03 ~ 2025.09] **UMC 8th Android Challenger**
 * [2025.03 ~ 2025.09] **한성대학교 컴퓨터공학부 학술 동아리 DC&M 부회장** — Vice President
+* [2024.09 ~] **한성대학교 컴퓨터공학부 학술 동아리 DC&M** — Member
 * [2024.09 ~] **한성대학교 컴퓨터공학부 학술 소모임 BUG** — Member
 * [2024.03 ~ Present] **B.Sc. in Computer Science & Engineering, Hansung University** (Seoul, South Korea)
 
