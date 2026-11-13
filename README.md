@@ -80,7 +80,9 @@
 
 ### 🔍 [굿모니터링](https://github.com/HSU-Oncampus-Internship)
 > 2026-2 AI/클라우드 온캠퍼스 인턴십 · 지자체 캐릭터 IP 무단 판매 상품 모니터링 플랫폼
+
 `Python` `MySQL` `Apify` `Gemini API`
+
 ***My Contribution (Team Lead · AI/Data)***
 - 쿠팡 Akamai 봇 차단을 직접 검증한 뒤 Apify API로 전환해 상품·판매자 사업자정보 수집 자동화
 - 승인 사업자 대조, 정가·중위값 기반 가격 이상 탐지 등 의심 상품 탐지 파이프라인 구축
@@ -88,7 +90,9 @@
 
 ### 🍽️ [파인디쉬](https://github.com/SinseonSeolnongtang) 🏆
 > 6축 임베딩 유사도 기반 멀티 에이전트 AI 맛집 추천 서비스
+
 `Spring Boot` `FastAPI` `Python`
+
 ***My Contribution (Backend Developer)***
 - Spring Boot 기반 백엔드 서버 개발, FastAPI AI 서버와 연동
 - SQLAlchemy 벡터 데이터 저장 오류 수정 및 Supabase upsert 로직 개선
