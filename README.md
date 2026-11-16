@@ -89,13 +89,11 @@
 - launchd 기반 일일 수집 자동화(재시도·로그 포함), Gemini 신고문 초안 생성 및 검증 로직 구현
 
 ### 🍽️ [파인디쉬](https://github.com/SinseonSeolnongtang) 🏆
-> 6축 임베딩 유사도 기반 멀티 에이전트 AI 맛집 추천 서비스
-
-`Spring Boot` `FastAPI` `Python`
-
+> 6축 임베딩 유사도 기반 멀티 에이전트 AI 맛집 추천 · 예약 서비스
+`Spring Boot` `Java` `AWS EC2`
 ***My Contribution (Backend Developer)***
-- Spring Boot 기반 백엔드 서버 개발, FastAPI AI 서버와 연동
-- SQLAlchemy 벡터 데이터 저장 오류 수정 및 Supabase upsert 로직 개선
+- Spring Boot 기반 백엔드 REST API 47개 설계 · 구현 (인증, 식당 · 예약, 장바구니 · 주문, 친구, AI 추천 프리셋 등)
+- AWS EC2 서버 구성 · 배포
 
 ---
 
